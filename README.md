@@ -8,6 +8,8 @@
 
 Authorization Code 以及 Client Credential
 
+流程圖可參考 [Authorization Code Flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow)
+
 # 初始化
 
 ```cmd
